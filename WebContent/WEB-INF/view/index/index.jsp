@@ -10,5 +10,6 @@
 <body>
 <h1>Hello Cat</h1>
 <p>This is my first servlet forwarding</p>
+<p><% out.print("i am from jsp variables");%></p>
 </body>
 </html>
